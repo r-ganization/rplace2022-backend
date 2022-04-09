@@ -1,6 +1,6 @@
 contact_links:
   - name: Ask a question
-    about: Ask questions and discuss with other users of the library.
+    about: Ask questions and discuss with other users.
     url: https://github.com/r-ganization/rplace2022-backend/discussions
   - name: Discord Server
     about: Use our official Discord server to ask for help and questions as well.
