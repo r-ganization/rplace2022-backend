@@ -2,7 +2,7 @@
   "name": "rplace2022-backend",
   "version": "1.0.0",
   "description": "The backend for the rplace2022 website",
-  "main": "index.js",
+  "main": "disc/src/index.js",
   "scripts": {
     "build": "tsc",
     "lint": "eslint src/**/*.ts --fix",
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/body-parser": "^1.19.2",
     "@types/config": "^0.0.41",
