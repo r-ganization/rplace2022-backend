@@ -29,15 +29,16 @@
     "@typescript-eslint/eslint-plugin": "^5.18.0",
     "@typescript-eslint/parser": "^5.18.0",
     "eslint": "^8.13.0",
+    "pino-pretty": "^7.6.1",
     "prettier": "^2.6.2",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.6.3",
-    "pino-pretty": "^7.6.1"
+    "typescript": "^4.6.3"
   },
   "dependencies": {
     "config": "^3.3.7",
     "cors": "^2.8.5",
     "express": "^4.17.3",
+    "mysql2": "^2.3.3",
     "pino": "^7.10.0",
     "zod": "^3.14.4"
   },
